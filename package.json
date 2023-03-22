@@ -1,0 +1,14 @@
+{
+  "name": "seatbot",
+  "version": "1.0.0",
+  "description": "this is test",
+  "main": "index.js",
+  "scripts": {
+    "test": "const TelegramBot = require('node-telegram-bot-api');"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
